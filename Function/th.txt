@@ -1,0 +1,11 @@
+Fuction --> for reuse the code
+
+there are four types of function 
+1. without return type and without parameter 
+2. without return type and with parameter 
+3. with return type and with parameter
+4. with return type and without parameter
+
+
+function --> function keyword 
+return key word 

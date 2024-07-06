@@ -1,0 +1,7 @@
+const employee ={
+    "name":"aashiq",
+    "age":25,
+    "department":"software engineering",
+    "salary":80000
+}
+

@@ -1,0 +1,3 @@
+JSON --> Javascript object notation
+
+key : value 
