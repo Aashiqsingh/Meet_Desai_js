@@ -1,0 +1,7 @@
+javascript -- single threaded application 
+
+java -- multi-threaded application
+
+
+solution -- callback function
+

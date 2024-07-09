@@ -1,25 +1,13 @@
+function isOdd(x)
+{
+    // if(x % 2 != 0)
+    // {
+    //     // console.log("Odd number");
+    //     return "Odd number"
+    // }
 
-// var a = prompt("Enter the number :-");
-
-// var x = isOdd(a)
-// console.log(x);
-// function isOdd(x){
-
-
-//     return x % 2 == 1;
-// }
-
-
-function isPrime(x){
-    for(let i=2;i<x;i++){
-        if(x%i==0){
-            return false;
-        }
-        
-    }
-    return true;
-    
+    return x % 2 == 1 ? "Odd" : "Even";
 }
 
-var x = isPrime(18)
-console.log(x);
+var ans = isOdd(9)
+console.log(ans);

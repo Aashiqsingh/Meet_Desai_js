@@ -35,3 +35,21 @@
 
 // var num = 10.99;
 // console.log(Math.trunc(num));
+
+
+var num = 23;
+var flag = 0;
+for(let i=2;i<num/2;i++){
+
+    if(num % i == 0)
+    {
+        flag = 1;
+    }
+}
+
+if(flag === 0){
+    console.log("Prime number");
+}
+else{
+    console.log("Non prime number");
+}
