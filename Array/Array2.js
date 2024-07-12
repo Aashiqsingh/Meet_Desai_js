@@ -47,4 +47,4 @@ var arr = [1,2,3,4,5,6,7,8,9,10,11]
 var arry = [23,45,22,12,13,14,55,23,12,45,11]
 
 var x = arry.sort()
-console.log(x);
+console.log(arry);
