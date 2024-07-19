@@ -1,0 +1,10 @@
+Dom -- Document object model 
+
+
+
+identify :
+1. id  -- uniqui
+2. class -- multipl
+3. tagname -- multiple 
+4. name -- multiple 
+4. querryselector
