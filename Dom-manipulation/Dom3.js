@@ -25,3 +25,10 @@ function move(){
     myDiv.style.backgroundColor = colors[random]
 
 }
+
+function increseSize(){
+
+    const para = document.getElementById("para")
+    para.style.height = "300px"
+    para.style.width = "300px"
+}

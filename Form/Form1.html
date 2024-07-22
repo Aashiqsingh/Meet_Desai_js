@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <p id="submitErr"></p>
+    <form onsubmit="submitHandler(event)">
+
+        <input type="text" id="name" placeholder="Name" onkeyup="fname()">
+        <span id="nameErr"></span>
+        <br><br>
+        
+        <input type="text" id="email" placeholder="Email" onkeyup="Email()"> 
+        <span id="emailErr"></span>
+        <br><br>
+
+        <input type="submit" value="Submit" id="">
+    </form>
+
+    <p id="output"></p>
+
+    <script src="./Form1.js"></script>
+</body>
+</html>

@@ -41,3 +41,18 @@ javaScript engine :
 - v8 -> google chrome [node]
 - javaScript core : safari 
 - rhino : java 
+
+
+mouse event :
+onclick 
+ondblclick 
+onmousemove
+onmouseenter
+onmouseleave
+onmouseover
+
+
+keyboard event :
+onkeypress
+onkeyup
+onkeydown
