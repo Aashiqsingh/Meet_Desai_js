@@ -1,0 +1,21 @@
+Promise --> [resolve , reject]
+
+promise --> pending
+
+Promise is a class in JavaScript
+
+
+non - synchonouse -- JavaScript bydefault
+
+
+**************************  2sec
+#####################  
+
+*#*#*#*#*#* 
+
+
+
+
+
+
+synchonouse - block , function 
